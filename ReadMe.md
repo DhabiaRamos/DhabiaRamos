@@ -1,5 +1,5 @@
-# 💫 About Me:
-Estou estudando front-end<br>Querendo me tornar uma desenvolvedora full-stack<br>
+# 💫 Sobre mim:
+Atualmente desenvolvendo projetos front-end, estudando para me tornar uma desenvolvedora full-stack<br>
 
 
 ## 🌐 Socials:
