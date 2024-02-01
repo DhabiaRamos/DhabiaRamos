@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 
 Sou uma desenvolvedora front-end, mas estou ansiosa para aprender mais e me tornar uma desenvolvedora full-stack. Tenho experiência em HTML, CSS e JavaScript, e estou sempre disposta a aprender novos conceitos.<br>
-Estou ansiosa para contribuir para a comunidade de desenvolvimento front-end e ajudar a criar sites e aplicativos incríveis.<br>
+Estou animada para contribuir para a comunidade de desenvolvimento front-end e ajudar a criar sites e aplicativos incríveis.<br>
 
 
 ## 🌐 Socials:
