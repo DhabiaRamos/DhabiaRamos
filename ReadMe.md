@@ -1,20 +1,28 @@
-# 💫 Sobre mim:
+<h1 align="center"> Hi there :wave:</h1>
+<br>
 
-Sou uma desenvolvedora front-end, mas estou ansiosa para aprender mais e me tornar uma desenvolvedora full-stack. Tenho experiência em HTML, CSS e JavaScript, e estou sempre disposta a aprender novos conceitos.<br>
-Estou animada para contribuir para a comunidade de desenvolvimento front-end e ajudar a criar sites e aplicativos incríveis.<br>
+<h2> :sparkles: Sobre mim </h2>
+<p>Eu me chamo Dhabia e sou uma desenvolvedora front-end e tenho experiência em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>. Sou uma pessoa motivada e estou sempre disposta a aprender novas coisas!</p>
+<p>Aqui vou mostrar os meus códigos e minha evolução ao longo do tempo!</p><br>
 
+<h2> :iphone: Contatos </h2>
 
-## 🌐 Socials:
-Em breve...
+- <a href="https://www.linkedin.com/in/dhabiaramos/">Linkedin</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhabiaRamos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DhabiaRamos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhabiaRamos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+<h2> :computer: Tecnologias</h2>
+<p>Tecnologias que tenho algum conhecimento e experiência</p>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=DhabiaRamos&icon=2&color=5)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<h2> :bar_chart: Statisticas </h2>
+
+[![Dhabia GitHub stats](https://github-readme-stats.vercel.app/api?username=DhabiaRamos)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhabiaRamos&layout=compact)
