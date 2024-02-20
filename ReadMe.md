@@ -14,13 +14,13 @@
 </p>
 
 - :maple_leaf: Tenho expêriencias com <strong>HTML</strong> e <strong>CSS</strong>
-- :four_leaf_clover: Atualmente estudando <strong>JavaScript</strong> e futuramente iniciar os estudos no <strong>NodeJs</strong>
+- :four_leaf_clover: Atualmente estudando <strong>JavaScript</strong> e futuramente iniciar os estudos em <strong>NodeJs</strong>
 - :blossom: Aqui vou mostrar os meus códigos e minha evolução ao longo do tempo!
 
 <br>
 
 ### :cloud: Tecnologias
-Tecnologias que tenho experiências e utiliz: <br>
+Tecnologias que tenho experiências e utilizo: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)<br><br>
 
